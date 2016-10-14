@@ -1,0 +1,22 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "descript my resume and some projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangguoquan/my-app.git"
+  },
+  "author": "yangguoquan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yangguoquan/my-app/issues"
+  },
+  "homepage": "https://github.com/yangguoquan/my-app#readme",
+  "devDependencies": {
+    "webpack": "^1.13.2"
+  }
+}
