@@ -1,5 +1,3 @@
-import './style.less';
-
 class MyAPP {
   constructor(props) {
     super(props);
@@ -8,5 +6,4 @@ class MyAPP {
 }
 
 new MyApp();
-alert(1);
 module.exports = MyApp;
